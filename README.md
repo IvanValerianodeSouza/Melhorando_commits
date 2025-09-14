@@ -10,16 +10,22 @@ _Checkout, **Tela de produto**, Catálogo e Home com Banner._
 
 **Projeto para _aplicação de vendas_ do cliente na web.**
 
-### Melhorias no projeto 
+### Melhorias no projeto:
 
 __Melhoria 1__, _Melhoria 2_ e Melhoria 3.
 
-### Linguagens do projeto
+### Linguagens do projeto:
 
 * HTML
 * CSS
 * Javascript
 * PHP
 * MySQL
+
+### Funcionalidades a desenvolver:
+
+1. Área de Membros
+2. Integração com outros pagamentos
+3. Sistema de bônus primeira compra
 
 
