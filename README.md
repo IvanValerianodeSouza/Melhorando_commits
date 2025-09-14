@@ -33,3 +33,6 @@ __Melhoria 1__, _Melhoria 2_ e Melhoria 3.
 
 ### Imagem Local
 ![Logo do Python](img/python.png)
+
+### Imagem Externa 
+![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)
