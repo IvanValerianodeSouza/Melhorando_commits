@@ -53,3 +53,9 @@ function soma(a, b) {
     return a + b;
 }
 ```
+
+### Listas de Tarefas 
+
+- [ x ] Área de Membros
+- [ ] Integração com outros pagamentos
+- [ x ] CSS diferente para cada cliente
