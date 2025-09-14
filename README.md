@@ -32,5 +32,4 @@ __Melhoria 1__, _Melhoria 2_ e Melhoria 3.
 3. Sistema de bônus primeira compra
 
 ### Imagem Local
-
 ![Logo do Python](img/python.png)
