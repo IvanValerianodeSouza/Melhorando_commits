@@ -56,6 +56,7 @@ function soma(a, b) {
 
 ### Listas de Tarefas 
 
-- [ x ] Área de Membros
+- [x] Área de Membros
 - [ ] Integração com outros pagamentos
-- [ x ] CSS diferente para cada cliente
+- [x] CSS diferente para cada cliente
+- [x] CSS do rodapé
