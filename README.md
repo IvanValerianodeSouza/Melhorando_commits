@@ -39,3 +39,7 @@ __Melhoria 1__, _Melhoria 2_ e Melhoria 3.
 
 ### Iamgem de Dashboard 
 ![Dashboard](img/Captura%20de%20tela%202025-03-30%20183714.png)
+
+[Google](www.google.com)
+[Contibuidor Principal](https://github.com/IvanValerianodeSouza)
+[![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)](https://github.com/IvanValerianodeSouza)
