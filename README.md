@@ -25,9 +25,9 @@ __Melhoria 1__, _Melhoria 2_ e Melhoria 3.
 ### Funcionalidades a desenvolver:
 
 1. Área de Membros
-  1. Login para clientes especiais
-  2. Desconto especial para clientes
-  3. CSS diferente para cada cliente
+   1. Login para clientes especiais
+   2. Desconto especial para clientes
+   3. CSS diferente para cada cliente
 2. Integração com outros pagamentos
 3. Sistema de bônus primeira compra
 
