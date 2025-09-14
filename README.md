@@ -40,7 +40,7 @@ __Melhoria 1__, _Melhoria 2_ e Melhoria 3.
 ### Iamgem de Dashboard 
 ![Dashboard](img/Captura%20de%20tela%202025-03-30%20183714.png)
 
-[Google](www.google.com)
+[Google](https://www.google.com)
 
 [Contibuidor Principal](https://github.com/IvanValerianodeSouza)
 
